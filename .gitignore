@@ -2,3 +2,8 @@ build/
 install/
 log/
 
+
+# bloom / debian packaging output
+src/waveye_msgs/debian/
+src/waveye_msgs/.obj-*/
+*.deb
